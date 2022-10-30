@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FutbalLive</string>
+    <string name="ft">FT</string>
+    <string name="head">winner  1x2</string>
+    <string name="ov25">over/under 2.5</string>
+    <string name="ov35">over/under 3.5</string>
+    <string name="ov15">over/under 1.5</string>
+    <string name="over">Over</string>
+    <string name="under">Under</string>
+    <string name="draw">Draw</string>
+
+    <string name="liveScores">LIVESCORES</string>
+    <string name="liveStream">LIVESTREAM</string>
+    <string name="leagues">LEAGUES</string>
+    <string name="livescoresImage">livescores card image</string>
+    <string name="livestreamImage">livestream card image</string>
+    <string name="leaguesImage">leagues card image</string>
+</resources>
